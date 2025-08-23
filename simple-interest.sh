@@ -1,14 +1,14 @@
 #!/bin/bash
 # Simple Interest Calculator
+
 # Formula: SI = (P * R * T) / 100
-
 echo "Enter Principal:"
-read P
+read p
 echo "Enter Rate of Interest:"
-read R
-echo "Enter Time:"
-read T
+read r
+echo "Enter Time (in years):"
+read t
 
-SI=$(( (P * R * T) / 100 ))
+si=$(( (p * r * t) / 100 ))
 
-echo "Simple Interest = $SI"
+echo "Simple Interest = $si"
