@@ -2,7 +2,7 @@ to calculate **Si># Simple Interest Calculator
 
 # Simple Interest Calculator
 
-This repository contains a Bash script (`simple-interest.sh`) to calculate **Simple Interest**.
+This repository contains a Bash script (`simple-interest.sh`) to calculate **Si**.
 
 ## Formula
 \[
